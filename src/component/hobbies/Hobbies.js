@@ -1,5 +1,6 @@
 import React from "react";
-
+import { GiBoxingGlove, GiHiking, GiCommercialAirplane, GiCampCookingPot, GiSoccerKick } from "react-icons/gi";
+import { GrYoutube } from "react-icons/gr";
 const Hobbies = () => {
   return (
     <>
@@ -8,13 +9,38 @@ const Hobbies = () => {
           <i className="fa fa-globe fa-fw w3-margin-right w3-text-blue-grey"></i>Hobbies
         </b>
       </p>
-      <ul>
-        <li>Travelling</li>
-        <li>Phone Photography</li>
-        <li>Cinematography</li>
-        <li>Swimming</li>
-        <li>Video Editing</li>
-      </ul>
+      <div class="w3-row">
+        <div class="w3-col s2  w3-center">
+          <h1>
+            <GiBoxingGlove />
+          </h1>
+        </div>
+        <div class="w3-col s2 w3-center">
+          <h1>
+            <GiHiking />
+          </h1>
+        </div>
+        <div class="w3-col s2 w3-center">
+          <h1>
+            <GiCommercialAirplane />
+          </h1>
+        </div>
+        <div class="w3-col s2  w3-center">
+          <h1>
+            <GiCampCookingPot />
+          </h1>
+        </div>
+        <div class="w3-col s2 w3-center">
+          <h1>
+            <GiSoccerKick />
+          </h1>
+        </div>
+        <div class="w3-col s2 w3-center">
+          <h1>
+            <GrYoutube />
+          </h1>
+        </div>
+      </div>
     </>
   );
 };

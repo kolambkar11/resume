@@ -4,20 +4,18 @@ import Profilesummary from "../profilesummary/Profilesummary";
 import Skills from "../skills/Skills";
 import Language from "../language/Language";
 import Hobbies from "../hobbies/Hobbies";
-import Technicalpro from "../technicalpro/Technicalpro";
 import Downloadresume from "../downloadresume/Downloadresume";
 
-const Third = () => {
+const Third = ({ resume }) => {
   return (
     <>
-      <div className="w3-third w3-card">
-        <Cardimage />
-        <Profilesummary />
-        <Skills />
-        <Language />
+      <div className="w3-third w3-card w3-padding-16 w3-margin-bottom">
+        <Cardimage resume={resume} />
+        <Profilesummary resume={resume} />
+        <Skills resume={resume} /> {/** Pending Remianing*/}
+        <Language resume={resume} />
         <Hobbies />
-        <Technicalpro />
-        <Downloadresume />
+        <Downloadresume resume={resume} />
       </div>
     </>
   );

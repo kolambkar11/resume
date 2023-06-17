@@ -10,19 +10,23 @@ const Language = () => {
       </p>
       <p>English</p>
       <div className="w3-light-grey w3-round-xlarge">
-        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "80%" }}></div>
+        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "90%" }}></div>
       </div>
       <p>Hindi</p>
       <div className="w3-light-grey w3-round-xlarge">
-        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "85%" }}></div>
+        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "90%" }}></div>
       </div>
       <p>Marathi</p>
       <div className="w3-light-grey w3-round-xlarge">
         <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "100%" }}></div>
       </div>
+      <p>German</p>
+      <div className="w3-light-grey w3-round-xlarge">
+        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "50%" }}></div>
+      </div>
       <p>French</p>
       <div className="w3-light-grey w3-round-xlarge">
-        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "25%" }}></div>
+        <div className="w3-round-xlarge w3-blue-grey" style={{ height: "24px", width: "50%" }}></div>
       </div>
     </>
   );

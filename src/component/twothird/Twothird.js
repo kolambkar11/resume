@@ -1,13 +1,13 @@
 import React from "react";
-import Workexp from "../workexp/Workexp";
+import Workexp from "../workexps/Workexps";
 import Education from "../education/Education";
 
-const Twothird = () => {
+const Twothird = ({ resume }) => {
   return (
     <>
       <div className="w3-twothird">
-        <Workexp />
-        <Education />
+        <Workexp resume={resume} />
+        <Education resume={resume} />
       </div>
     </>
   );

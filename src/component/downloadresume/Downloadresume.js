@@ -1,4 +1,5 @@
 import React from "react";
+import pdf from "../../assets/04-04-AshutoshKolambkarCV.pdf";
 
 const Downloadresume = () => {
   return (
@@ -8,11 +9,9 @@ const Downloadresume = () => {
           <i className="fa fa-file fa-fw w3-margin-right w3-text-blue-grey"></i>Download Resume
         </b>
       </p>
-      <center>
-        <a href="23-03-AshutoshKolambkarCV.pdf" rel="noopener" target="_blank" className="w3-button w3-black w3-round-large">
-          Ashutosh Kolambkar Resume
-        </a>
-      </center>
+      <a href={pdf} rel="noopener" target="_blank" className="w3-button w3-black w3-round-large">
+        Ashutosh Kolambkar Resume
+      </a>
     </>
   );
 };
