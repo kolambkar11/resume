@@ -1,5 +1,5 @@
 import React from "react";
-import profileImg from "../../assets/profile-photo.jpeg";
+import profileImg from "../../assets/profile-photo.png";
 
 const Cardimage = ({ resume }) => {
   console.log(resume.resumeData.profile.role);
