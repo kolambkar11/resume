@@ -2,7 +2,6 @@ import React from "react";
 import Responsibilities from "../responsibilties/Responsibilities";
 
 const Workexps = ({ resume }) => {
-  console.log(resume);
   return (
     <>
       <div className="w3-container w3-white w3-margin-bottom w3-card">

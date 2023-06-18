@@ -2,7 +2,6 @@ import React from "react";
 import profileImg from "../../assets/profile-photo.png";
 
 const Cardimage = ({ resume }) => {
-  console.log(resume.resumeData.profile.role);
   return (
     <>
       <h2>{resume.resumeData.profile.role}</h2>
