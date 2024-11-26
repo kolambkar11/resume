@@ -17,7 +17,7 @@ const Getsocial = () => {
       <a href="https://twitter.com/10Ashutosh10" target="_blank">
         <i className="footer-icons fa fa-twitter w3-hover-opacity"></i>
       </a>
-      <a href="https://www.linkedin.com/in/ashutosh-kolambkar-23257a102/" target="_blank">
+      <a href="https://www.linkedin.com/in/ashutosh-kolambkar/" target="_blank">
         <i className="footer-icons fa fa-linkedin w3-hover-opacity"></i>
       </a>
       <a href="https://wa.me/918692805802" target="_blank">

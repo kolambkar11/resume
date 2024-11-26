@@ -2,10 +2,10 @@
   "profile": {
     "contact": "+91 8692805802",
     "name": "Ashutosh Kolambkar",
-    "role": "Front-end Developer",
-    "designation": "Front-end Developer",
+    "role": "Front-End Developer",
+    "designation": "Front-End Developer",
     "dob": "14th October, 1996",
-    "totalexprience": "5.8 years",
+    "totalexprience": "5 years, 4 months",
     "email": "kolambkarashutosh@gmail.com",
     "location": "Dadar Mumbai, Maharashtra",
     "linkedIn": "https://www.linkedin.com/in/ashutosh-kolambkar/",
@@ -13,19 +13,34 @@
     "technicalprofiencies": "Frontend Development, Backend Development",
     "workexprience": [
       {
+        "company": "Resource One Private Limited",
+        "from": "Sept 2023",
+        "to": "Oct 2024",
+        "designation": "UI Developer",
+        "project": "UI Development",
+        "roles_responsibilities": [
+          { "point": "Engineered UI components in ReactJS and TypeScript, creating dynamic and user-friendly web applications." }, 
+          { "point": "Developed responsive and interactive web interfaces utilizing modern JavaScript and React.js to improve user engagement and functionality." }, 
+          { "point": "Collaborated with backend developers for seamless frontend-backend integration, providing a consistent and optimized user experience." }, 
+          { "point": "Technology Used: React, HTML, Reactstrap, SCSS, Git." }]
+      },{
         "company": "Trigent Software Private Limited",
         "from": "Oct 2021",
-        "to": "Present",
-        "designation": "Security Engineer",
-        "project": "Security Engineer",
-        "roles_responsibilities": [{ "point": "Managing Security Operation Centers}" }, { "point": "Monitoring and reporting malicious activites happening in the organizations" }, { "point": "Develop tools for required for security purpose" }, { "point": "Technology Used: Python, Flask." }]
+        "to": "Sept 2023",
+        "designation": "Engineer",
+        "project": "Engineer",
+        "roles_responsibilities": [
+          { "point": "Developed and maintained responsive, high-performance web applications using React, Redux Toolkit, Context API, HTML5, CSS3, JavaScript, and Bootstrap, optimizing functionality across devices." }, 
+          { "point": "Enhanced web pages for mobile responsiveness and cross-browser compatibility to ensure uniform user experiences." }, 
+          { "point": "Collaborated with designers and backend teams to implement modular, scalable code, supporting the application’s performance and future adaptability." }, 
+          { "point": "Technology Used: Python, Flask, React, HTML, Reactstrap, SCSS, Git." }]
       },
       {
         "company": "Maharashtra Cyber",
         "from": "Nov 2020",
         "to": "Sept 2021",
-        "designation": "Cyber Consultant | Cyber Security Internship",
-        "project": "Cyber Consultant | Cyber Security Internship",
+        "designation": "Consultant | Internship",
+        "project": "Consultant | Internship",
         "roles_responsibilities": [
           { "point": "Collected requirements as per department needs and developed Social Media Monitoring Web Application for collecting complaints regarding offensive posts." },
           { "point": "Included modules to generated automated letters/ reports/notices based on actions taken by the respective authority and dynamically change content as per the sections of India Penal Court criminal procedure code and IT Act." },
@@ -35,25 +50,6 @@
           { "point": "Testing reported for efficiency of reading 200 files per minute." },
           { "point": "Technology Used: Html5, CSS3, JavaScript, jQuery, PHP, Bootstrap 3, Bootstrap 4, MySQL, Python, Flask." }
         ]
-      },
-      {
-        "company": "Gurugram Police",
-        "from": "June 2021",
-        "to": "July 2021",
-        "designation": "Cyber Security Summer Internship",
-        "project": "Cyber Security Summer Internship",
-        "roles_responsibilities": [
-          { "point": "Collected requirements as per department needs and developed Social Media Monitoring Web Application for collecting complaints regarding offensive posts.}" },
-          { "point": "Included modules to generated automated letters/ reports/notices based on actions taken by the respective authority and dynamically change content as per the sections of India Penal Court criminal procedure code and IT Act." }
-        ]
-      },
-      {
-        "company": "Andesoft Consulting",
-        "from": "Jan 2020",
-        "to": "May 2020",
-        "designation": "Frontend Developer",
-        "project": "Frontend Developer",
-        "roles_responsibilities": [{ "point": "Created responsive website using CSS frameworks. Co-worked with back-end web developers to integrate front-end and back-end in a consensus way." }, { "point": "Technology Used: Html5, CSS3, JavaScript, jQuery, PHP, Bootstrap 3, Bootstrap 4, MySQL" }]
       },
       {
         "company": "Coast to Coast Tourism",
@@ -102,22 +98,14 @@
             "siteurl": "http://vcmt.co.in/"
           }
         ],
-        "roles_responsibilities": [{ "point": "Built reusable PHP modules in OpenCart framework as per requirement. Collaborated with designers and software engineers to ensure the integrity of the product." }, { "point": "Technology Used: Html5, CSS3, JavaScript, jQuery, PHP, Bootstrap 3, Bootstrap 4, MySQL, OpenCart" }, { "point": "Site URL: https://ctctourism.com" }]
-      },
-      {
-        "company": "Listenlights Andheri",
-        "from": "Feb 2019",
-        "to": "Jan 2020",
-        "designation": "Web Developer Summer Internship",
-        "project": "Frontend Developer",
-        "roles_responsibilities": [{ "point": "Worked as an intern at Listenlights Infosystem" }, { "point": "Technology Used: Html5, CSS3, JavaScript, jQuery, PHP, Bootstrap 3, Bootstrap 4, w3.css" }]
+        "roles_responsibilities": [{ "point": "Built reusable PHP modules in OpenCart framework as per requirement. Collaborated with designers and software engineers to ensure the integrity of the product." }, { "point": "Technology Used: Html5, CSS3, JavaScript, jQuery, PHP, Bootstrap 3, Bootstrap 4, MySQL, OpenCart" }]
       }
     ],
     "education": [
       { "year": "2018-2020", "course": "Master of Sceince - Information Technology", "institution": "Vidyalankar School of Information Technology, Mumbai University" },
       { "year": "2014-2017", "course": "Bachelor of Sceince - Information Technology", "institution": "Vidyalankar School of Information Technology, Mumbai University" },
-      { "year": "2012-2014", "course": "Secondary School Certificate", "institution": "Kirti M. Doongurse College Mumbai" },
-      { "year": "2002-2012", "course": "Higher Secondary School Certificate", "institution": "Indian Education Society, Modern English School Mumbai" }
+      { "year": "2012-2014", "course": "Higher Secondary School Certificate", "institution": "Kirti M. Doongurse College Mumbai" },
+      { "year": "2002-2012", "course": "Secondary School Certificate", "institution": "Indian Education Society, Modern English School Mumbai" }
     ]
   }
 }

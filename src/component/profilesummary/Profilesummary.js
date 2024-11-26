@@ -12,11 +12,11 @@ const Profilesummary = ({ resume }) => {
         {resume.resumeData.profile.dob}
       </p>
       <p>
-        <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>
+        <i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>
         {resume.resumeData.profile.totalexprience}
       </p>
       <p>
-        <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>
+        <i className="fa fa-map-pin fa-fw w3-margin-right w3-large w3-text-blue-grey"></i>
         {resume.resumeData.profile.location}
       </p>
       <p>
