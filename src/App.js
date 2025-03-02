@@ -5,6 +5,7 @@ import Third from "./component/third/Third";
 import Twothird from "./component/twothird/Twothird";
 import resumeData from "../src/assets/resume.json";
 import { useState } from "react";
+import "./App.css"
 function App() {
   const [resume, setResume] = useState({ resumeData });
   const set = () => {

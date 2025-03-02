@@ -1,0 +1,7 @@
+.skills-icons{
+    font-size: 4rem;
+    display: flex;
+}
+.skills-icons svg{
+    margin: 0px 5px 0 0;
+}

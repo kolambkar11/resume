@@ -1,4 +1,5 @@
 import React from "react";
+import { SiBootstrap, SiCss3, SiFlask, SiHtml5, SiJavascript, SiJquery, SiMysql, SiNextdotjs, SiPython, SiReact, SiTypescript } from "react-icons/si";
 
 const Skills = () => {
   return (

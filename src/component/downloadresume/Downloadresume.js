@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../../assets/04-12-frontend-developer-ashutosh-kolambkar.pdf";
+import pdf from "../../assets/Next_React_Ashutosh_Kolambkar_CV.pdf";
 
 const Downloadresume = () => {
   return (
